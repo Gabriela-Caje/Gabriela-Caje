@@ -18,9 +18,9 @@
 ---
 
 * 👩‍💻 Soy estudiante de **Ingeniería Informática**, apasionada por el desarrollo de software y la tecnología. Constantemente estoy aprendiendo y desarrollando proyectos para fortalecer mis habilidades.
-* 🌱 Actualmente estoy profundizando mis conocimientos en **Inteligencia Artificial, Machine Learning y Desarrollo de Software**.
-* 📱 Me interesa especialmente el **desarrollo de aplicaciones móviles** y la creación de soluciones prácticas mediante la tecnología.
-* 🚀 Me apasiona aprender nuevas tecnologías, enfrentar desafíos y convertir ideas en aplicaciones funcionales.
+* Actualmente estoy profundizando mis conocimientos en **Inteligencia Artificial, Machine Learning y Desarrollo de Software**.
+* Me interesa especialmente el **desarrollo de aplicaciones móviles** y la creación de soluciones prácticas mediante la tecnología.
+* Me apasiona aprender nuevas tecnologías, enfrentar desafíos y convertir ideas en aplicaciones funcionales.
 
 ## 🛠 &nbsp;Tech Stack
 
