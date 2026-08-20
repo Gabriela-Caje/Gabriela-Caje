@@ -65,12 +65,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdalrahman-Alhamod&theme=github_dark)
   
  </div>
- 
- ### 📈 Activity Graph
- 
- [![Ashutosh's github activity graph](![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabyCaje&theme=github_dark))
-
----
 
 ### 🔗 &nbsp;Contact Me
 
